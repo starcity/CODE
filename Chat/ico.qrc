@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/:">
+        <file>ico/B.png</file>
+        <file>ico/C.png</file>
+        <file>ico/I.png</file>
+        <file>ico/U.png</file>
+        <file>ico/media.png</file>
+        <file>ico/help.png</file>
+        <file>ico/voice.png</file>
+        <file>ico/video.png</file>
+        <file>ico/share.png</file>
+        <file alias="VideoClose">ico/VideoClose.png</file>
+    </qresource>
+</RCC>
